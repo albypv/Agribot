@@ -16,7 +16,7 @@
 **Conclusion**:
   The development of the agricultural bot marks a significant step towards providing targeted, real-time information and support to farmers, researchers, policymakers, and consumers. While the bot excels in delivering domain-specific knowledge and recommendations, its limitations in handling general conversational queries highlight areas for further improvement. Enhancing the bot's conversational flexibility and contextual understanding will be crucial in creating a more engaging and user-friendly experience. Future iterations should focus on broadening the training data to include everyday language and refining natural language processing capabilities. With these advancements, the bot can become a comprehensive tool, driving informed decision-making and sustainable practices in the agricultural sector.
 
-**__________________________________________________________________________________________________________________________________________________________________________________________________________________**
+**____________________________________________________________________________________________________________________________________________________**
 
 **NOTES**
 
