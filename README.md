@@ -21,7 +21,16 @@
 **Link: LLM Model**
 https://colab.research.google.com/drive/1QZpAyBN-4Vd2zyxaYIYegzLGY9Vyjdre?usp=sharing
 
+**Link: RAG**
+https://colab.research.google.com/drive/1K1Y3nslteoB8IY5hy3ir9I567GQvSEe7?usp=sharing
 
+**Limitations [RAG Model]**
+	The agricultural bot, developed using a large language model (LLM), effectively provides domain-specific information but struggles with handling general conversational queries, such as greetings. To address this, we explored the integration of Retrieval-Augmented Generation (RAG) without significant improvement.
+
+ **Conclusion [RAG Model]**
+ 	This model enhances response accuracy by retrieving relevant information from a large knowledge base or document repository, ensuring up-to-date and precise answers. It excels in handling rare or specific queries that may not be well-covered by traditional training data alone, thereby expanding the bot's capability to address diverse user inquiries. Moreover, RAG's scalability allows for seamless integration of extensive external data sources, supporting broader and more comprehensive responses. Ultimately, RAG enables the generation of contextually rich answers, improving the overall user experience in interactive applications.
+
+**____________________________________________________________________________________________________________________________________________________**
 
 **NOTES**
 
