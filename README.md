@@ -1,5 +1,25 @@
 # Agribot
 
+**Problem Statement**:
+	Farmers often lack timely, reliable information on best agricultural practices, pest control, weather forecasts, and market prices, leading to suboptimal yields and financial instability. Researchers and policymakers need centralized, up-to-date data to support their work. Additionally, consumers seek transparency about food origins and sustainable farming practices. This agricultural bot aims to address these needs by providing accurate, real-time information to farmers, curated research for academics, policy insights for organizations, and educational content for consumers, ultimately fostering informed decisions and sustainable agricultural practices.
+	
+**Solution**:
+	The proposed agricultural bot will leverage artificial intelligence and machine learning to deliver personalized, real-time information and recommendations to users. For farmers, the bot will provide timely updates on weather conditions, pest control methods, and market prices, enhancing decision-making and productivity. Researchers and academics will benefit from curated research articles, data analysis, and trend reports. Policymakers will receive data-driven insights and policy recommendations to inform their strategies. Additionally, the bot will educate consumers on sustainable farming practices and food origins, promoting transparency and informed choices. This comprehensive approach will support the agricultural community, driving sustainable practices and improved outcomes.
+	
+**Limitations**:
+	The agricultural bot, while proficient in delivering domain-specific information, exhibits several limitations:
+		• Lack of Conversational Flexibility: The bot struggles with handling general greetings and basic conversational queries due to its training focus being predominantly on agricultural content.
+		• Limited Training Data: The bot's inability to respond effectively to untrained data highlights a gap in its training set, which has not encompassed sufficient examples of everyday language and general inquiries.
+		• Scalability Issues: The bot's current framework may not easily scale to accommodate a wider range of topics beyond agriculture without significant retraining and data augmentation efforts.
+		• Contextual Understanding: The bot often fails to maintain context in multi-turn conversations, especially when switching between agricultural and non-agricultural topics, leading to disjointed and less coherent interactions.
+		
+**Conclusion**:
+  The development of the agricultural bot marks a significant step towards providing targeted, real-time information and support to farmers, researchers, policymakers, and consumers. While the bot excels in delivering domain-specific knowledge and recommendations, its limitations in handling general conversational queries highlight areas for further improvement. Enhancing the bot's conversational flexibility and contextual understanding will be crucial in creating a more engaging and user-friendly experience. Future iterations should focus on broadening the training data to include everyday language and refining natural language processing capabilities. With these advancements, the bot can become a comprehensive tool, driving informed decision-making and sustainable practices in the agricultural sector.
+
+**__________________________________________________________________________________________________________________________________________________________________________________________________________________**
+
+**NOTES**
+
 6 layers in gpt
 
 Self attention helps to find the important words in a sentence
