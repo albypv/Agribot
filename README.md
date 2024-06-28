@@ -18,6 +18,11 @@
 
 **____________________________________________________________________________________________________________________________________________________**
 
+**Link: LLM Model**
+https://colab.research.google.com/drive/1QZpAyBN-4Vd2zyxaYIYegzLGY9Vyjdre?usp=sharing
+
+
+
 **NOTES**
 
 6 layers in gpt
